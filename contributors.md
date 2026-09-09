@@ -10,3 +10,10 @@
 - Learning: Git & GitHub
 - Favorite Programming Language: Python
 - About Me: Interested in Artificial Intelligence, Machine Learning, and AI Engineering.
+
+
+## Muhammad Zain Matloob
+- Role: AI Intern
+- Learning: Git & GitHub
+- Favorite Programming Language: Python
+- About Me: Interested in Artificial Intelligence, Machine Learning, and Data Science.
