@@ -9,3 +9,10 @@
 - Learning: Git & GitHub
 - Favorite Programming Language: Python
 - About Me: Interested in Artificial Intelligence, Machine Learning, and Data Science.
+
+
+## Moazna Fatima
+- Role: AI Intern
+- Learning: Git & GitHub
+- Favorite Programming Language: Python
+- About Me: Interested in Machine Learning and Artificial Intelligence
