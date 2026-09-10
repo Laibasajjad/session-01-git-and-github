@@ -19,6 +19,13 @@
 - About Me: Interested in Artificial Intelligence, Machine Learning, and Data Science.
 
 
+## Hamna Kashif
+- Role: AI Intern
+- Learning: Git & GitHub
+- Favorite Programming Language: Python
+- About Me: Interested in Artificial Intelligence and Machine Learning and CyberSecurity.
+
+
 ## Moazna Fatima
 - Role: AI Intern
 - Learning: Git & GitHub
