@@ -31,3 +31,11 @@
 - Learning: Git & GitHub
 - Favorite Programming Language: Python
 - About Me: Interested in Machine Learning and Artificial Intelligence
+
+
+## Name : Qurat Ul Ain
+
+- Role: AI Intern
+- Learning: Git & GitHub
+- Favorite Programming Language: Python
+- About Me: Interested in Artificial Intelligence, Cyber Security and Machine Learning.
